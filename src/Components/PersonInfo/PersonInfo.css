@@ -1,0 +1,38 @@
+.personInfoContainer {
+    height: 100%;
+    width: 100%;
+    background-color: #ffffff;
+    padding: 25px  50px;
+}
+
+.personInfoContainer h1 {
+    border-bottom: 3px solid rgb(0, 183, 255);
+    font-weight: 900;  
+}
+
+.personInfoContainer h2 {
+    font-size: 36px;
+    font-weight: 900;
+    margin: 0px;
+}
+
+.cardIDAndName {
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutContainer {
+    margin-bottom: 75px;
+}
+
+.aboutContainer h3 {
+  font-weight: 900;  
+}
+
+.favMoviesContainer h3 {
+    font-weight: 900;  
+}
+
+.favMoviesContainer h4 {
+    text-indent: 50px;
+}
